@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "ciudad": "Bogotá",
+        "precio_gasolina": "9.723",
+        "precio_acpm": "9.320"
+    },
+    {
+        "id": "2",
+        "ciudad": "Medellín",
+        "precio_gasolina": "9.662",
+        "precio_acpm": "9.311"
+    },
+    {
+        "id": "3",
+        "ciudad": "Cali",
+        "precio_gasolina": "9.762",
+        "precio_acpm": "9.419"
+    },
+    {
+        "id": "4",
+        "ciudad": "Barranquilla",
+        "precio_gasolina": "9.408",
+        "precio_acpm": "9.014"
+    },
+    {
+        "id": "5",
+        "ciudad": "Cartagena",
+        "precio_gasolina": "9.368",
+        "precio_acpm": "8.982"
+    },
+    {
+        "id":"6",
+        "ciudad": "Montería",
+        "precio_gasolina": "9.618",
+        "precio_acpm": "9.232"
+    },
+    {
+        "id": "7",
+        "ciudad": "Bucaramanga",
+        "precio_gasolina": "9.477",
+        "precio_acpm": "9.076"
+    },
+    {
+        "id": "8",
+        "ciudad": "Villavicencio",
+        "precio_gasolina": "9.823",
+        "precio_acpm": "9.402"
+    },
+    {
+        "id": "9",
+        "ciudad": "Pereira",
+        "precio_gasolina": "9.707",
+        "precio_acpm": "9.366"
+    },
+    {
+        "id" : "10",
+        "ciudad" :"Manizales",
+        "precio_gasolina":"9.716",
+        "precio_acpm":"9.355" 
+    },
+    {
+        "id" : "11",
+        "ciudad" :"Ibagué",
+        "precio_gasolina":"9.672",
+        "precio_acpm":"9.291" 
+    },
+    {
+        "id" : "12",
+        "ciudad" :"Pasto",
+        "precio_gasolina":"8.222",
+        "precio_acpm":"8.457" 
+    },
+    {
+        "id" : "13",
+        "ciudad" :"Cúcuta",
+        "precio_gasolina":"7.776",
+        "precio_acpm":"7.024" 
+    }
+]
